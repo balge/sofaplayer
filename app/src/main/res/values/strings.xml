@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SofaPlay</string>
+    <string name="home_title">SofaPlay</string>
+    <string name="foundation_ready">TV shell is ready. Media providers and playback engines are being wired.</string>
+</resources>
